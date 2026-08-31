@@ -1,7 +1,7 @@
 {
   "name": "Git Commit History Viewer",
   "short_name": "Git Commit History Viewer",
-  "description": "Explore a public GitHub repository history locally in your browser.",
+  "description": "Search, chart, filter, and export public GitHub commit history locally in your browser.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
